@@ -1,0 +1,7 @@
+.invalid-email {
+    border-color: red;
+}
+
+#result {
+    padding-top: 20px;
+}
